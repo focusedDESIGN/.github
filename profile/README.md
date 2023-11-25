@@ -1,4 +1,4 @@
-# Focused Design
+# focused design
 
 ![Focused Design Logo](https://focused.design/media/logo/logo.v1.white.svg)
 
